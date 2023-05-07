@@ -1,2 +1,2 @@
-# workout-javascript-game
-make game with Javascript
+# javascript-game
+make game with javascript

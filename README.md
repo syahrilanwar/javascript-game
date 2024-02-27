@@ -1,2 +1,2 @@
 # javascript-game
-make game with javascript
+game with javascript languages
